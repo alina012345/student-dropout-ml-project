@@ -65,3 +65,7 @@ The dataset ZIP file must be in the same folder as the notebook.
 
 
 
+# Assistance Declaration
+
+I used AI to help explain lecture materials in simple words and break down the milestone instructions into steps to make sure I did not miss any requirements. 
+I also used it to troubleshoot errors in python code and improve the printed outputs to see results in cleaner way.
