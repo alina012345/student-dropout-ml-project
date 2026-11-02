@@ -43,7 +43,7 @@ To run the project locally:
 
 3) Create and activate a Python virtual environment:
 
-  python3 -m venv .venv
+  python3.13 -m venv .venv
   source .venv/bin/activate
 
 4) Install the required packages:
