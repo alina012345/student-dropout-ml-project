@@ -65,6 +65,13 @@ The dataset ZIP file must be in the same folder as the notebook.
 
 
 
+
+# Repository Link
+https://github.com/alina012345/student-dropout-ml-project
+
+
+
+
 # Assistance Declaration (Milestone 2 and Milestone 3)
 
 I used AI to help explain lecture materials in simple words and break down the milestone instructions into steps to make sure I did not miss any requirements. 
